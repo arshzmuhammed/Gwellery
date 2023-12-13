@@ -17,8 +17,9 @@
     display: flex;
 }
 .section{
+    margin-top: 48px;
     margin-left: 302px;
- display: flex;
+    display: flex;
 }
 /* .section-header {
     margin-top: 23px;

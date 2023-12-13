@@ -137,6 +137,14 @@
     font-weight: 600;
     line-height: normal;
 }
+.section-wrapper-row span{
+    color: #292929;
+    font-family: Roboto;
+    font-size: 18.681px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
 .gold-items{
     width: 505px;
     height: 417px;

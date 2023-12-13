@@ -17,7 +17,7 @@
     display: flex;
 }
 .section{
-    margin-left: 213px;
+    margin-left: 302px;
  display: flex;
 }
 /* .section-header {
@@ -226,6 +226,7 @@ backdrop-filter: blur(11.675824165344238px);
     margin-left: 5px;
 }
 .gold-rates h4{
+    margin-left: 15px;
     width: 261px;
     height: 48px;
     flex-shrink: 0;
@@ -237,6 +238,7 @@ backdrop-filter: blur(11.675824165344238px);
     line-height: normal;
 }
 .gold-rates-col h4{
+    margin-left: 15px;
     display: flex;
     width: 261px;
     height: 48px;

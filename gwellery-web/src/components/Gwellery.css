@@ -255,10 +255,10 @@ backdrop-filter: blur(11.675824165344238px);
     align-items: center;
     justify-content: center;
     width: 22.424px;
-height: 22.424px;
-flex-shrink: 0;
-border-radius: 5.606px;
-background: #D3AA4C;
+    height: 22.424px;
+    flex-shrink: 0;
+    border-radius: 5.606px;
+    background: #D3AA4C;
 }
 .doller-items{
     /* height: 52px; */
@@ -581,6 +581,7 @@ backdrop-filter: blur(11.675824165344238px);
     align-items: center;
 }
 .footer-text p{
+    margin-top: 10px;
     color: #F8F8F8;
 
     text-align: center;
